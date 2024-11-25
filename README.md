@@ -1,3 +1,5 @@
+**⚠️ This repository is deprecated and no longer maintained.**
+
 OpenShift Management Console
 =========================
 The management console for [OpenShift Origin](https://github.com/openshift/origin).
